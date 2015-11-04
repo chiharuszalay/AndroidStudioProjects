@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">AndroidParseToDoList</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_list">ListActivity</string>
+    <string name="title_activity_create">CreateActivity</string>
+    <string name="title_activity_update">UpdateActivity</string>
+    <string name="ApplicationID">O4hrj9UvvE9DBLDJPO7hPqlI2KEDQ8dGMBIPl4qV</string>
+    <string name="ClientKey">dgPkeZ2APOcyOELaYBRKoEUWNglmojTVBwabaEKp</string>
+</resources>
